@@ -1,0 +1,15 @@
+C:\Users\1-user\source\repos\PassGen\PassGen\bin\Debug\PassGen.exe.config
+C:\Users\1-user\source\repos\PassGen\PassGen\bin\Debug\PassGen.exe
+C:\Users\1-user\source\repos\PassGen\PassGen\bin\Debug\PassGen.pdb
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.AssemblyReference.cache
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\MainWindow.g.cs
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\App.g.cs
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\PassGen_MarkupCompile.cache
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\PassGen_MarkupCompile.lref
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\MainWindow.baml
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\PassGen.g.resources
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\PassGen.Properties.Resources.resources
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.GenerateResource.cache
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\PassGen.csproj.CoreCompileInputs.cache
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\PassGen.exe
+C:\Users\1-user\source\repos\PassGen\PassGen\obj\Debug\PassGen.pdb
